@@ -1,0 +1,3 @@
+sox
+numpy==1.21.4
+selenium==3.5.0
